@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>373805444677-1a6lddq7sdqf5nslta79bu9d8ic7pa93.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.373805444677-1a6lddq7sdqf5nslta79bu9d8ic7pa93</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA7T4t-VjSM-3Vr7921zw0lsSh1uB_Zrh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>373805444677</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ukom</string>
+	<key>PROJECT_ID</key>
+	<string>payroll-database-cbd05</string>
+	<key>STORAGE_BUCKET</key>
+	<string>payroll-database-cbd05.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:373805444677:ios:9c8e76f8eb90468177fd2c</string>
+</dict>
+</plist>

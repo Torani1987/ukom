@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "373805444677",
+    "project_id": "payroll-database-cbd05",
+    "storage_bucket": "payroll-database-cbd05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373805444677:android:2c9e1c2d6d6cf70377fd2c",
+        "android_client_info": {
+          "package_name": "com.example.payroll_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373805444677-1q7c7qs165ffb4omiu292gs356v4i6t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJ0q2RdvJRgiTkCp-oQM0XMU1nrmdWjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373805444677-1q7c7qs165ffb4omiu292gs356v4i6t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373805444677-1a6lddq7sdqf5nslta79bu9d8ic7pa93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ukom"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373805444677:android:d0921514b9bc1c7b77fd2c",
+        "android_client_info": {
+          "package_name": "com.example.payrollapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373805444677-1q7c7qs165ffb4omiu292gs356v4i6t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJ0q2RdvJRgiTkCp-oQM0XMU1nrmdWjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373805444677-1q7c7qs165ffb4omiu292gs356v4i6t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373805444677-1a6lddq7sdqf5nslta79bu9d8ic7pa93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ukom"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373805444677:android:99b326e279691d1c77fd2c",
+        "android_client_info": {
+          "package_name": "com.example.ukom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373805444677-1q7c7qs165ffb4omiu292gs356v4i6t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJ0q2RdvJRgiTkCp-oQM0XMU1nrmdWjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373805444677-1q7c7qs165ffb4omiu292gs356v4i6t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373805444677-1a6lddq7sdqf5nslta79bu9d8ic7pa93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ukom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
